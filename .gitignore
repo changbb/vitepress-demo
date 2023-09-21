@@ -1,0 +1,15 @@
+## Vscode project files
+.vscode
+
+## WebStrom project files
+.idea
+
+# node_modules
+node_modules
+
+# Mac DS_Store Files
+.DS_Store
+
+# dist
+docs/.vitepress/dist
+docs/.vitepress/cache
